@@ -44,16 +44,16 @@ const App = () => {
             path: "/",
             element: < ElemenetX / > ,
             children: [
-                { path: "/", element: < Home / > },
+                { path: "/socialmediaclone", element: < Home / > },
                 { path: "/profile/:id", element: < Profile / > },
             ],
         },
         {
-            path: "/login",
+            path: "/socialmediaclone/login",
             element: < Login / > ,
         },
         {
-            path: "/register",
+            path: "/socialmediaclone/register",
             element: < Register / > ,
         },
     ]);

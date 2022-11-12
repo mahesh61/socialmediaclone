@@ -13,7 +13,7 @@ const Register = () => {
             sapiente reprehenderit id temporibus,
           </p>
           <span>Do you have a account?</span>
-          <Link to="/login">
+          <Link to="/socialmediaclone/login">
             <button>Login</button>
           </Link>
         </div>

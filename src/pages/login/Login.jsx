@@ -13,7 +13,7 @@ const Login = () => {
             sapiente reprehenderit id temporibus,
           </p>
           <span>Don't have a account?</span>
-          <Link to="/register">
+          <Link to="/socialmediaclone/register">
             <button>Register</button>
           </Link>
         </div>
