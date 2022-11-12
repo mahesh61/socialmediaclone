@@ -60,7 +60,8 @@ const App = () => {
     return ( <
         div >
         <
-        RouterProvider router = { router }
+        RouterProvider basename = "/socialmediaclone"
+        router = { router }
         /> <
         /div>
     );
